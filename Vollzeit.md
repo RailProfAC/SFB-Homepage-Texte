@@ -1,29 +1,19 @@
 # Studiengangprofil
-Nachhaltige Mobilität ist Voraussetzung für die Megatrends Urbanisierung, Mobilität sowie nachhaltige Entwicklung und damit Grundbedürfnis einer wachsenden Weltbevölkerung.
-
-Mehr als die Hälfte der immer mobiler werdenden Weltbevölkerung lebt in Städten, die Verkehrsaufgaben in und zwischen den wachsenden Metropolen lassen sich nur noch mit effizienten Verkehrssystemen erledigen. Die möglichen Tätigkeiten, bereits im Studium und natürlich im Beruf, unterstützen die technologisch führende europäische Bahnindustrie dabei, die Welt Zug um Zug ein Stück nachhaltiger, komfortabler und sicherer zu machen.
+Wir alle möchten mobil bleiben,  das aber möglichst nachhaltig. Mehr als die Hälfte Weltbevölkerung lebt in Städten, in denen das Auto als Antwort auf alle Mobilitätsfragen nicht mehr genügt. Deine zukünftigen Aufgaben, bereits im Studium und natürlich im Beruf, unterstützen die technologisch führende europäische Bahnindustrie dabei, die Welt Zug um Zug ein Stück nachhaltiger, komfortabler und sicherer zu machen.
 
 Schienenfahrzeugtechnik ist ein siebensemestriger Vollzeitstudiengang mit einem Studienvolumen von 210 Credits.
 
-Das Studium ist in aufeinander aufbauende Module strukturiert, welche verschiedene Veranstaltungsformen umfassen. Diese können zum Beispiel Vorlesung, Übung und Praktikum sein. Ein Modul wird in der Regel durch eine schriftliche Prüfung abgeschlossen. Jedes Modul umfasst eine bestimmte Anzahl an ECTS Creditpoints. Die Summe der ECTS Creditpoints eines Semesters beträgt dabei stets 30.
+Das Studium ist in aufeinander aufbauende Module strukturiert, die verschiedene Veranstaltungsformen umfassen. Diese können zum Beispiel Vorlesung, Übung und Praktikum sein. Ein Modul wird häufig durch eine schriftliche Prüfung abgeschlossen. Jedes Modul umfasst eine bestimmte Anzahl an ECTS Creditpoints. Die Summe der ECTS Creditpoints eines Semesters beträgt dabei stets 30.
 
-5 Vorlesungs-Semester
-1 Praxis-Semester
-1 Abschluss-Semester
+Im Vollzeitstudiengang besuchst du während sechs Semestern Vorlesungen in Aachen. In den ersten drei Semestern werden die mathematisch- und naturwissenschaftlichen sowie die ingenieurwissenschaftlichen Grundlagen für die späteren fachspezifisch vertiefenden und erweiternden Veranstaltungen gelegt. Mit wenigen Ausnahmen werden die Inhalte in Veranstaltungen vermittelt, die du gemeinsam mit Kommilitonen des Studiengangs Maschinenbau besuchst.
 
-In den ersten drei Semestern werden die mathematisch- und naturwissenschaftlichen sowie die ingenieurwissenschaftlichen Grundlagen für die späteren fachspezifisch vertiefenden und erweiternden Veranstaltungen gelegt. Mit wenigen Ausnahmen werden die Inhalte in Veranstaltungen vermittelt, die Ihr gemeinsam mit Kommilitonen des Studiengangs Maschinenbau besuch
+Im vierten Semester beginnt die fachspezifische Vertiefung mit Veranstaltungen zur Betriebswirtschaft und Technik der Eisenbahnen und zur Antriebstechnik von Schienenfahrzeugen. Ein hoher Anteil an Laborpraktika, Exkursionen und natürlich die IMechE Railway Challenge sorgen für praxisorientiertes Fachwissen.
 
-Im vierten Semester beginnt die fachspezifische Vertiefung, unter anderem mit Veranstaltungen zur Konstruktion und Gestaltung von Schienenfahrzeugen, zur Antriebstechnik und zur speziellen Leittechnik von Schienenfahrzeugen. Ein hoher Anteil Laborstunden ist die Gewähr für praxisorientiertes Fachwissen.
+Im fünften Semester nimmt deine Vertiefung dann richtig Fahrt auf: Leit- und Sicherungstechnik, Herstellung und Vermarktung von Schienenfahrzeugen, Qualität und Sicherheit und nicht zuletzt Schienenfahrzeugtechnik 1 bestimmen den Stundenplan. 
 
-Die in den ersten vier Semestern erworbenen Kenntnisse wendest Du in der Praxisphase im fünften Semester erstmalig praktisch an. In einem Industrieunternehmen der Branche arbeitest Du projektbezogen und lernst dabei Organisationsstrukturen und verschiedene Berufsbilder kennen. Dies soll die Theorie und die Praxis weiter miteinander verknüpfen und Dir das ingenieurmäßige Arbeiten innerhalb eines Unternehmens näher bringen.
+Im sechsten Semester schließt du die Vorlesungen mit Modulen zu Steuerungs- und Simulationstechnik sowie Schienenfahrzeugtechnik und Schienenfahrzeugantrieben, darunter hybride Antriebskonzepte, ab. Mit einem Wahlmodul kannst du dich deinen Neigungen entsprechend weiterentwickeln. In der Regel nehmen alle Studierenden des sechsten Semesters an der Railway Challenge teil, dieses Projekt krönt gewissermaßen ihr Studium.
 
- 
-
-So gestärkt und motiviert vertiefst Du im sechsten Semester Dein Wissen in der Fahrzeugkonstruktion und -elektronik und im Einsatz von Simulationswerkzeugen sowie im Bereich hybrider Antriebe. Im Rahmen der Wahlpflichtfächer kannst Du zudem entweder einen betriebswirtschaftlichen Akzent setzen oder tiefer in die technischen Aspekte der Schienenfahrzeuge eintauchen. 
-
- 
-
-Die erste Hälfte des siebten Semesters ist das Praxisprojekt, welches  in der Regel in einem Industrieunternehmen absolviert wird. Nach der Bachelorarbeit, mit der Du Deine Fähigkeit unter Beweis stellst, eine konkrete Aufgabenstellung mit wissenschaftlichen Methoden zu durchdringen und einer praktisch umsetzbaren Lösung zuzuführen, entlassen wir Dich als gefragten Experten der Schienenfahrzeugtechnik in Deine berufliche Zukunft.
+In der ersten Hälfte des siebten Semesters absolvierst du das Praxisprojekt, welches  in der Regel in einem Unternehmen der Branche absolviert wird. Nach der Bachelorarbeit, mit der du deine Fähigkeit unter Beweis stellst, eine konkrete Aufgabenstellung mit wissenschaftlichen Methoden zu durchdringen und einer praktisch umsetzbaren Lösung zuzuführen, entlassen wir dich als gefragten Experten der Schienenfahrzeugtechnik in deine berufliche Zukunft.
 
 Studiengang: Schienenfahrzeugtechnik
 Abschluss: Bachelor of Engineering
