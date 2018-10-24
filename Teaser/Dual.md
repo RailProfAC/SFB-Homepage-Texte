@@ -1,16 +1,27 @@
-# Studiengangprofil
-Wir alle möchten mobil bleiben,  das aber möglichst nachhaltig. Mehr als die Hälfte Weltbevölkerung lebt in Städten, in denen das Auto als Antwort auf alle Mobilitätsfragen nicht mehr genügt. Deine zukünftigen Aufgaben, bereits im Studium und natürlich im Beruf, unterstützen die technologisch führende europäische Bahnindustrie dabei, die Welt Zug um Zug ein Stück nachhaltiger, komfortabler und sicherer zu machen.
+# Duale Ingenieurausbildung Schienenfahrzeugtechnik - DI Rail
 
-DI Rail, der duale Studiengang Schienenfahrzeugtechnik, ist ein neun oder elfsemestriger ausbildungsintegrierender dualer Studiengang mit einem Studienvolumen von 210 Credits.
+## Warum duales Studium?
 
-Ein duales Studium ermöglicht es dir, Ausbildung und Studium zu vereinen und früh die Praxis und zukünftige Arbeitgeber kennen zu lernen. Du absolvierst in den ersten zwei Jahren an drei Tagen in der Woche eine verkürzte Berufsausbildung.
+Der Fachkräftemangel trifft viele Branchen, natürlich auch die Bahn. Gerade für junge Menschen gilt die Bahn nicht als attraktiv genug, um bei ihrer Berufswahl auf den vorderen Plätzen zu landen. Ein attraktiver Arbeitgeber und ein duales Studienangebot können das ändern. DI Rail bietet den Unternehmen und den Studierenden eine hervorragende Möglichkeit, eine langfristige Zusammenarbeit einzugehen.
 
-Das Studium ist in aufeinander aufbauende Module strukturiert, die verschiedene Veranstaltungsformen umfassen. Diese können zum Beispiel Vorlesung, Übung und Praktikum sein. Ein Modul wird häufig durch eine schriftliche Prüfung abgeschlossen. Jedes Modul umfasst eine bestimmte Anzahl an ECTS Creditpoints. Die Summe der ECTS Creditpoints eines Semesters beträgt dabei zwischen 12 und 30.
+## Was ist DI Rail?
 
-Nach dem vierten Semester absolvierst du die Kammerprüfung deiner Berufsausbildung. Parallel dazu hast du 60 ECTS Creditpoints der Studieneingangsphase erworben. Danach kannst du dich entscheiden, ob du als Vollzeit- oder Teilzeitstudent dein Studium fortsetzt.
+DI Rail, der duale Studiengang Schienenfahrzeugtechnik, ist ein ausbildungsintegrierender dualer Studiengang mit einem Studienvolumen von 210 Credits. Er führt, je nach gewählter Variante (Vollzeit oder Teilzeit im Vertiefungsstudium) in neun oder elf Semestern zum Bachelor of Engineering. Er ermöglicht es, eine gewerbliche Ausbildung beispielsweise als Mechatroniker(in) oder Eisenbahner(in) im Betriebsdienst mit einem praxisorientierten Studium zu verbinden.
 
-Du besuchst während insgesamt acht oder zehn Semestern Vorlesungen in Aachen, abhängig davon, ob Du nach der Ausbildung in Vollzeit oder Teilzeit weiter studierst. In den ersten fünf Semestern werden die mathematisch- und naturwissenschaftlichen sowie die ingenieurwissenschaftlichen Grundlagen für die späteren fachspezifisch vertiefenden und erweiternden Veranstaltungen gelegt. Mit wenigen Ausnahmen werden die Inhalte in Veranstaltungen vermittelt, die du gemeinsam mit Kommilitonen des Studiengangs Maschinenbau besuchst.
+## Wie funktioniert das duale Studium?
 
-Ab dem sechsten Semester beginnt dein Vertiefungsstudium und Module zur Technik von Schienenfahrzeugen, aber auch zum Eisenbahnbetrieb, dominieren deinen Stundenplan. Dazu gibt es ein Wahlmodul sowie Projektarbeit, unter anderem an unserer Lokomotive für die IMechE Railway Challenge. Für die genauen Module und den Ablauf schau in den Ablaufplan oder unter <Link Vollzeit> bzw. <Link Teilzeit>.
+Der Inhalt der ersten zwei Semester des Vollzeitstudiums wird zeitlich auf zwei Jahre gestreckt, während dieser Zeit sind die Studierenden während der Vorlesungszeit an zwei Tagen in der Woche in Aachen, drei Tage im Ausbildungsbetrieb. Nach zwei Jahren erfolgt aufgrund möglicher Verkürzungen die Kammerprüfung im gewählten Ausbildungsberuf.
 
-Im neunten bzw. elften Semester absolvierst du zunächst ein Praxisprojekt, in der Regel in einem Unternehmen der Branche, um danach in deiner Abschlussarbeit deine Fähigkeit unter Beweis zu stellen, praktische Probleme mit wissenschaftlichen Methoden zu lösen. Mit dem Bachelor bist du ein begehrter Experte in der wachsenden Bahnbranche!
+Danach können die Studierenden in unserem Vollzeit- oder Teilzeitmodell weiter studieren. Das Teilzeitmodell ermöglicht es, 2 Tage je Woche in der Vorlesungszeit ausserhalb der Hochschule zu verbringen. 
+
+## Wo liegen die Vorteile für Arbeitgeber?
+
+Die Absolventen der Schienenfahrzeugtechnik werden von vielen Unternehmen und Einrichtungen der Branche sehr geschätzt. Durch die duale Ausbildung können eie Mitarbeiter ausbilden, die sowohl über betriebliche Praxis in ihrem Unternehmen verfügen als auch über eine praxisnahe akademische Ausbildung. Bereits bei der Rekrutierung der Auszubildenden heben sie sich durch das integrierte Angebot aus Theorie und Praxis ab. Erfahrungsgemäß zeigen dual Studierende einen überdurchschnittlichen Studienerfolg und geringe Abbruchquoten. 
+
+## Kontakt
+
+Studiengangsleiter
+Prof. Dr. Raphael
+pfaff@fh-aachen.de
+Telefon 0241-6009-52454
+Mobil 0151-700-52454
